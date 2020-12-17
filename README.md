@@ -13,6 +13,7 @@ This is a variation of the Mixed Messages Portfolio project set by Codeacademy. 
 * [Setup](#setup)
 * [Features](#features)
 * [Future extensions](future-extensions)
+* [Contact](#contact)
 
 ## Technologies
 * Javascript
